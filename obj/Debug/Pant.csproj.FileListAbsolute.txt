@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Pant\Pant\bin\Debug\Pant.exe.config
+C:\Users\Пользователь\source\repos\Pant\Pant\bin\Debug\Pant.exe
+C:\Users\Пользователь\source\repos\Pant\Pant\bin\Debug\Pant.pdb
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.g.resources
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.exe
+C:\Users\Пользователь\source\repos\Pant\Pant\obj\Debug\Pant.pdb
